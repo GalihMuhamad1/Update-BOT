@@ -168,9 +168,9 @@ fthumb = setting.fakethumb
 hit_today = []
 blocked = []
 ban = []
-limitawal = "999"
-gcounttprem = "999" 
-gcounttuser = "999" 
+limitawal = "99999999"
+gcounttprem = "99999999" 
+gcounttuser = "99999999" 
 
 let multi = true
 let nopref = false
@@ -215,9 +215,9 @@ tttawal= ["0️⃣","1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣",
 const X = "❌" 
 const O = "⭕️" 
 const tunjuk = "👈" 
-winawal = 9999 
+winawal = 9999999 
 loseawal = 1 
-memberwin = 9999 
+memberwin = 9999999 
 memberlose = 1 
 
 //Credit For 404 SQUAD ( Gk usah di hapus mek)
